@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nabinkim0318
-- 👀 I’m interested in ... music information retrieval and machine learning
+- 👀 I’m interested in ... data science and machine learning
 - 🌱 I’m currently learning ... computer science @ Georgia Institute of Technology
-- 💞️ I’m looking to collaborate on ... university research labs. 
 - 📫 How to reach me ... nabinkim0318@gmail.com
 
 <!---
