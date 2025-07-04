@@ -44,7 +44,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Audio%20Analysis-Librosa,MIDI,MusPy-orange?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/OCR%20&%20Accessibility-DAISY,LayoutLMv3-lightgrey?style=for-the-badge" />&nbsp
-  <img src="https://img.shields.io/badge/Web_Crawling-PRAW,Selenium-yellow?style=for-the-badge" />&nbsp
 </div>
 
 <br>
