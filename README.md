@@ -52,3 +52,6 @@
     <img src="https://img.shields.io/badge/nabinkim0318@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinkim0318)](https://github.com/anuraghazra/github-readme-stats)
+
