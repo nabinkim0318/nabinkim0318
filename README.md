@@ -21,8 +21,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/LLMs-GPT4,LangChain,K--BERT,LLama-important?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/Healthcare_AI-FHIR,EHR,Medical_Imaging-critical?style=for-the-badge" />&nbsp
-  <img src="https://img.shields.io/badge/Diffusion_Models-Research-blue?style=for-the-badge" />&nbsp
-  <img src="https://img.shields.io/badge/Biomedical_Signals-ECG,PPG,EMG-blueviolet?style=for-the-badge" />&nbsp
 </div>
 
 <br>
